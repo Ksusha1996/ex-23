@@ -1,0 +1,15 @@
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\bin\Debug\net7.0\tab 23.exe
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\bin\Debug\net7.0\tab 23.deps.json
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\bin\Debug\net7.0\tab 23.runtimeconfig.json
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\bin\Debug\net7.0\tab 23.dll
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\bin\Debug\net7.0\tab 23.pdb
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\tab 23.csproj.AssemblyReference.cache
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\tab 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\tab 23.AssemblyInfoInputs.cache
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\tab 23.AssemblyInfo.cs
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\tab 23.csproj.CoreCompileInputs.cache
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\tab 23.dll
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\refint\tab 23.dll
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\tab 23.pdb
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\tab 23.genruntimeconfig.cache
+C:\Users\usero\OneDrive\Рабочий стол\tab 23\ex-23\tab 23\obj\Debug\net7.0\ref\tab 23.dll
